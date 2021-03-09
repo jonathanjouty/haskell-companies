@@ -137,7 +137,7 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [QBayLogic](https://qbaylogic.com) | Netherlands, Enschede | Hardware design tooling | [Reddit](https://web.archive.org/web/20191121031748/https://www.reddit.com/r/haskell/comments/d3cwmi/job_qbaylogic_is_hiring/) | No
 [RELEX Solutions](https://www.relexsolutions.com) | Finland, Helsinki | Logistics planning | [Reddit](https://web.archive.org/web/20170920111730/https://www.reddit.com/r/haskell/comments/7166v5/haskell_job_opportunity_at_relex_solutions_in/) | EU or United States
 [Replenysh](https://replenysh.com/) | United States, CA, Los Angeles | Recycling | [Job Posting](https://replenysh.homerun.co/full-stack-engineer/en) | No
-[Runtime Verification](https://www.runtimeverification.com) | United States, IL, Urbana-Champaign; Romania, Bucharest | Formal Verification | [Github](https://github.com/kframework/kore/) 
+[Runtime Verification](https://www.runtimeverification.com) | United States, IL, Urbana-Champaign; Romania, Bucharest | Formal Verification | [Github](https://github.com/kframework/kore/) | Yes (remote friendly)
 [S&P Global](http://www.spglobal.com) | India, Gurgaon; United States, New York, Boston, Denver | Finance | [Functional Jobs](https://web.archive.org/web/20180116174033/https://functionaljobs.com/jobs/9056-software-developer-all-levels-at-sp-global) [HN](https://news.ycombinator.com/item?id=16062505) [Github](https://github.com/ermine-language/ermine) | No
 [Saltation](http://www.saltation.de) | Germany, Bielefeld | ? | ? | ?
 [Scrive](https://scrive.com) | Sweden, Stockholm | eSigning | [Github](https://github.com/scrive?language=haskell) | Yes
