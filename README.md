@@ -180,7 +180,7 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [Veepee](https://www.veepee.fr/registration/AboutUs?CountryCode=FR) | France, Paris | eCommerce/Flash discounts | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkpp1gg/)
 [Veitch Lister Consulting](https://veitchlister.com.au/) | Australia, Multiple locations | Logistics/Transportation	| [Github](https://github.com/vlc)
 [Well-Typed](http://www.well-typed.com) | United Kingdom, London | Consulting | [Github](https://github.com/well-typed?language=haskell) | Yes
-[Wire Swiss](https://wire.com) | Switzerland | Chat | [Github](https://github.com/wireapp?language=haskell)
+[Wire Swiss](https://wire.com) | Switzerland / Germany, Berlin | Chat | [Github](https://github.com/wireapp?language=haskell)
 [Wrinkl](https://www.wrinkl.com) | United States, NYC/Philadelphia | Messaging | [Job Ad](https://web.archive.org/web/20171001101257/https://haskellweekly.news/issues/74.html) | Yes
 [Xoken Labs](https://www.xoken.org) | India, Bangalore | Blockchain, Identity | [Github](https://github.com/erkmos/haskell-companies/pull/51) | Yes
 [Zalando](https://zalando.de) | Germany, Berlin | Online fashion store | [Github](https://github.com/erkmos/haskell-companies/pull/33) | No
